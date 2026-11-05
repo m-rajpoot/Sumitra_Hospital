@@ -9,7 +9,7 @@
    2. Paste the key from your inbox below.
    That's it: every booking now arrives in that Gmail inbox.
    --------------------------------------------------------- */
-const WEB3FORMS_ACCESS_KEY = "aaaaaaaaaaaaaaa";
+const WEB3FORMS_ACCESS_KEY = "cf3d9bdc-8b0a-457a-8ec3-d19dbcc5b818";
 const HOSPITAL_PHONE = "8083980227";
 
 (() => {

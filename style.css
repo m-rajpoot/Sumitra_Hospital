@@ -580,6 +580,24 @@ dialog.modal[open]::backdrop { animation: fade-in .3s ease; }
   }
   .mbar .btn { min-height: 50px; padding: 10px; }
 }
+.lab-btn {
+    display: inline-block;
+    background: #f5a623;
+    color: #111 !important;
+    padding: 5px 14px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 10px;
+    border-radius: 6px;
+    transition: 0.3s ease;
+}
+
+.lab-btn:hover {
+    background: #ffc04d;
+    transform: translateY(-2px);
+}
 @media (max-width: 560px) {
   .wrap { width: calc(100% - 32px); }
   .strip { font-size: 13px; }
